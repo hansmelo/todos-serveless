@@ -1,0 +1,9 @@
+{
+  "author": "Dedalus",
+  "license": "UNLICENSED",
+  "private": true,
+  "jshintConfig": {
+            "esversion": 6,
+            "node": true
+  }
+}
